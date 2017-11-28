@@ -1,6 +1,6 @@
-# cobbler-report
+# COBBLER - REPORT
 
-## Table of Contents
+**Table of Contents**
 
  * Cấu trúc và các thành phần chính 
  * Cài đặt và cấu hình Cobbler 
